@@ -1,0 +1,2 @@
+# API_Pinterest
+API NÃO OFICIAL DO PINTEREST
